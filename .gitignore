@@ -1,0 +1,4 @@
+*.asm
+*.tmp
+*.o
+main
